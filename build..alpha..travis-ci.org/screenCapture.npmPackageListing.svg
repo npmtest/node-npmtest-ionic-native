@@ -1,0 +1,247 @@
+<svg height="3902" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3902" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 02:42:26 +0000   910350 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 02:42:26 +0000    79262 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 02:42:26 +0000    10362 bytes  DEVELOPER.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 02:42:26 +0000     1113 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 02:42:26 +0000     5423 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 02:42:26 +0000     1053 bytes  circle.yml</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 02:42:26 +0000     1457 bytes  gulpfile.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 02:42:26 +0000     1719 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 02:42:26 +0000     4125 bytes  scripts/build/build.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 02:42:26 +0000      360 bytes  scripts/build/core-package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 02:42:26 +0000      366 bytes  scripts/build/plugin-package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 02:42:26 +0000     1410 bytes  scripts/build/publish.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 02:42:26 +0000      571 bytes  scripts/build/tsconfig-core.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 02:42:26 +0000      580 bytes  scripts/build/tsconfig-plugin.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 02:42:26 +0000      158 bytes  scripts/config.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 02:42:26 +0000       92 bytes  scripts/docs/configs/links.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 02:42:26 +0000      106 bytes  scripts/docs/configs/log.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 02:42:26 +0000      173 bytes  scripts/docs/configs/tag-defs.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 02:42:26 +0000      348 bytes  scripts/docs/configs/template-filters.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 02:42:26 +0000      261 bytes  scripts/docs/configs/template-tags.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 02:42:26 +0000     2659 bytes  scripts/docs/dgeni-config.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 02:42:26 +0000     2606 bytes  scripts/docs/dgeni-readmes-config.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 02:42:26 +0000      135 bytes  scripts/docs/filters/capital.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 02:42:26 +0000      623 bytes  scripts/docs/filters/code.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 02:42:26 +0000      112 bytes  scripts/docs/filters/dashify.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 02:42:26 +0000       92 bytes  scripts/docs/filters/dump.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 02:42:26 +0000     1101 bytes  scripts/docs/gulp-tasks.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 02:42:26 +0000      657 bytes  scripts/docs/prepare.sh</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 02:42:26 +0000     1125 bytes  scripts/docs/processors/debug.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 02:42:26 +0000      330 bytes  scripts/docs/processors/hide-private-api.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 02:42:26 +0000     1156 bytes  scripts/docs/processors/jekyll.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 02:42:26 +0000      416 bytes  scripts/docs/processors/mark-properties.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 02:42:26 +0000      545 bytes  scripts/docs/processors/npm-id.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 02:42:26 +0000      664 bytes  scripts/docs/processors/parse-optional.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 02:42:26 +0000      557 bytes  scripts/docs/processors/readmes.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 02:42:26 +0000      633 bytes  scripts/docs/processors/remove-private-members.j\</tspan>
+<tspan x="10" y="602">s</tspan>
+<tspan x="10" y="618"> 36.  2017-04-25 02:42:26 +0000      386 bytes  scripts/docs/tag-defs/tag-defs.js</tspan>
+<tspan x="10" y="634"> 37.  2017-04-25 02:42:26 +0000     7524 bytes  scripts/docs/templates/common.template.html</tspan>
+<tspan x="10" y="650"> 38.  2017-04-25 02:42:26 +0000      799 bytes  scripts/docs/templates/native_menu.template.html</tspan>
+<tspan x="10" y="666"> 39.  2017-04-25 02:42:26 +0000     1200 bytes  scripts/docs/templates/readme.template.md</tspan>
+<tspan x="10" y="682"> 40.  2017-04-25 02:42:26 +0000     1284 bytes  scripts/docs/update_docs.sh</tspan>
+<tspan x="10" y="698"> 41.  2017-04-25 02:42:26 +0000     1010 bytes  scripts/docs/update_readmes.sh</tspan>
+<tspan x="10" y="714"> 42.  2017-04-25 02:42:26 +0000      632 bytes  scripts/git/clone.sh</tspan>
+<tspan x="10" y="730"> 43.  2017-04-25 02:42:26 +0000      460 bytes  scripts/templates/wrap-min.tmpl</tspan>
+<tspan x="10" y="746"> 44.  2017-04-25 02:42:26 +0000     1906 bytes  scripts/templates/wrap.tmpl</tspan>
+<tspan x="10" y="762"> 45.  2017-04-25 02:42:26 +0000     6200 bytes  scripts/utils.inc.sh</tspan>
+<tspan x="10" y="778"> 46.  2017-04-25 02:42:26 +0000      946 bytes  src/@ionic-native/core/bootstrap.ts</tspan>
+<tspan x="10" y="794"> 47.  2017-04-25 02:42:26 +0000     9431 bytes  src/@ionic-native/core/decorators.ts</tspan>
+<tspan x="10" y="810"> 48.  2017-04-25 02:42:26 +0000       83 bytes  src/@ionic-native/core/index.ts</tspan>
+<tspan x="10" y="826"> 49.  2017-04-25 02:42:26 +0000    10542 bytes  src/@ionic-native/core/plugin.ts</tspan>
+<tspan x="10" y="842"> 50.  2017-04-25 02:42:26 +0000     1906 bytes  src/@ionic-native/core/util.ts</tspan>
+<tspan x="10" y="858"> 51.  2017-04-25 02:42:26 +0000     3153 bytes  src/@ionic-native/plugins/action-sheet/index.ts</tspan>
+<tspan x="10" y="874"> 52.  2017-04-25 02:42:26 +0000     6349 bytes  src/@ionic-native/plugins/admob-free/index.ts</tspan>
+<tspan x="10" y="890"> 53.  2017-04-25 02:42:26 +0000     6971 bytes  src/@ionic-native/plugins/admob/index.ts</tspan>
+<tspan x="10" y="906"> 54.  2017-04-25 02:42:26 +0000     2419 bytes  src/@ionic-native/plugins/alipay/index.ts</tspan>
+<tspan x="10" y="922"> 55.  2017-04-25 02:42:26 +0000     5330 bytes  src/@ionic-native/plugins/android-fingerprint-au\</tspan>
+<tspan x="10" y="938">th/index.ts</tspan>
+<tspan x="10" y="954"> 56.  2017-04-25 02:42:26 +0000     2879 bytes  src/@ionic-native/plugins/android-full-screen/in\</tspan>
+<tspan x="10" y="970">dex.ts</tspan>
+<tspan x="10" y="986"> 57.  2017-04-25 02:42:26 +0000     1633 bytes  src/@ionic-native/plugins/app-availability/index\</tspan>
+<tspan x="10" y="1002">.ts</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-25 02:42:26 +0000     3384 bytes  src/@ionic-native/plugins/app-preferences/index.\</tspan>
+<tspan x="10" y="1034">ts</tspan>
+<tspan x="10" y="1050"> 59.  2017-04-25 02:42:26 +0000     3177 bytes  src/@ionic-native/plugins/app-rate/index.ts</tspan>
+<tspan x="10" y="1066"> 60.  2017-04-25 02:42:26 +0000     1417 bytes  src/@ionic-native/plugins/app-update/index.ts</tspan>
+<tspan x="10" y="1082"> 61.  2017-04-25 02:42:26 +0000     1589 bytes  src/@ionic-native/plugins/app-version/index.ts</tspan>
+<tspan x="10" y="1098"> 62.  2017-04-25 02:42:26 +0000    11430 bytes  src/@ionic-native/plugins/appodeal/index.ts</tspan>
+<tspan x="10" y="1114"> 63.  2017-04-25 02:42:26 +0000     4086 bytes  src/@ionic-native/plugins/background-fetch/index\</tspan>
+<tspan x="10" y="1130">.ts</tspan>
+<tspan x="10" y="1146"> 64.  2017-04-25 02:42:26 +0000    16331 bytes  src/@ionic-native/plugins/background-geolocation\</tspan>
+<tspan x="10" y="1162">/index.ts</tspan>
+<tspan x="10" y="1178"> 65.  2017-04-25 02:42:26 +0000     4887 bytes  src/@ionic-native/plugins/background-mode/index.\</tspan>
+<tspan x="10" y="1194">ts</tspan>
+<tspan x="10" y="1210"> 66.  2017-04-25 02:42:26 +0000     1210 bytes  src/@ionic-native/plugins/backlight/index.ts</tspan>
+<tspan x="10" y="1226"> 67.  2017-04-25 02:42:26 +0000     2331 bytes  src/@ionic-native/plugins/badge/index.ts</tspan>
+<tspan x="10" y="1242"> 68.  2017-04-25 02:42:26 +0000     3352 bytes  src/@ionic-native/plugins/barcode-scanner/index.\</tspan>
+<tspan x="10" y="1258">ts</tspan>
+<tspan x="10" y="1274"> 69.  2017-04-25 02:42:26 +0000     1610 bytes  src/@ionic-native/plugins/base64-to-gallery/inde\</tspan>
+<tspan x="10" y="1290">x.ts</tspan>
+<tspan x="10" y="1306"> 70.  2017-04-25 02:42:26 +0000     2378 bytes  src/@ionic-native/plugins/battery-status/index.t\</tspan>
+<tspan x="10" y="1322">s</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-25 02:42:26 +0000    14175 bytes  src/@ionic-native/plugins/ble/index.ts</tspan>
+<tspan x="10" y="1354"> 72.  2017-04-25 02:42:26 +0000     6720 bytes  src/@ionic-native/plugins/bluetooth-serial/index\</tspan>
+<tspan x="10" y="1370">.ts</tspan>
+<tspan x="10" y="1386"> 73.  2017-04-25 02:42:26 +0000     1739 bytes  src/@ionic-native/plugins/brightness/index.ts</tspan>
+<tspan x="10" y="1402"> 74.  2017-04-25 02:42:26 +0000     1645 bytes  src/@ionic-native/plugins/broadcaster/index.ts</tspan>
+<tspan x="10" y="1418"> 75.  2017-04-25 02:42:26 +0000     2037 bytes  src/@ionic-native/plugins/browser-tab/index.ts</tspan>
+<tspan x="10" y="1434"> 76.  2017-04-25 02:42:26 +0000    12082 bytes  src/@ionic-native/plugins/calendar/index.ts</tspan>
+<tspan x="10" y="1450"> 77.  2017-04-25 02:42:26 +0000     1187 bytes  src/@ionic-native/plugins/call-number/index.ts</tspan>
+<tspan x="10" y="1466"> 78.  2017-04-25 02:42:26 +0000     8616 bytes  src/@ionic-native/plugins/camera-preview/index.t\</tspan>
+<tspan x="10" y="1482">s</tspan>
+<tspan x="10" y="1498"> 79.  2017-04-25 02:42:26 +0000     7057 bytes  src/@ionic-native/plugins/camera/index.ts</tspan>
+<tspan x="10" y="1514"> 80.  2017-04-25 02:42:26 +0000     4247 bytes  src/@ionic-native/plugins/card-io/index.ts</tspan>
+<tspan x="10" y="1530"> 81.  2017-04-25 02:42:26 +0000     1693 bytes  src/@ionic-native/plugins/clipboard/index.ts</tspan>
+<tspan x="10" y="1546"> 82.  2017-04-25 02:42:26 +0000    21929 bytes  src/@ionic-native/plugins/code-push/index.ts</tspan>
+<tspan x="10" y="1562"> 83.  2017-04-25 02:42:26 +0000    10211 bytes  src/@ionic-native/plugins/contacts/index.ts</tspan>
+<tspan x="10" y="1578"> 84.  2017-04-25 02:42:26 +0000     1040 bytes  src/@ionic-native/plugins/couchbase-lite/index.t\</tspan>
+<tspan x="10" y="1594">s</tspan>
+<tspan x="10" y="1610"> 85.  2017-04-25 02:42:26 +0000     1064 bytes  src/@ionic-native/plugins/crop/index.ts</tspan>
+<tspan x="10" y="1626"> 86.  2017-04-25 02:42:26 +0000     4111 bytes  src/@ionic-native/plugins/date-picker/index.ts</tspan>
+<tspan x="10" y="1642"> 87.  2017-04-25 02:42:26 +0000     2082 bytes  src/@ionic-native/plugins/db-meter/index.ts</tspan>
+<tspan x="10" y="1658"> 88.  2017-04-25 02:42:26 +0000     4845 bytes  src/@ionic-native/plugins/deeplinks/index.ts</tspan>
+<tspan x="10" y="1674"> 89.  2017-04-25 02:42:26 +0000     1519 bytes  src/@ionic-native/plugins/device-accounts/index.\</tspan>
+<tspan x="10" y="1690">ts</tspan>
+<tspan x="10" y="1706"> 90.  2017-04-25 02:42:26 +0000     1702 bytes  src/@ionic-native/plugins/device-feedback/index.\</tspan>
+<tspan x="10" y="1722">ts</tspan>
+<tspan x="10" y="1738"> 91.  2017-04-25 02:42:26 +0000     2928 bytes  src/@ionic-native/plugins/device-motion/index.ts</tspan>
+<tspan x="10" y="1754"> 92.  2017-04-25 02:42:26 +0000     3438 bytes  src/@ionic-native/plugins/device-orientation/ind\</tspan>
+<tspan x="10" y="1770">ex.ts</tspan>
+<tspan x="10" y="1786"> 93.  2017-04-25 02:42:26 +0000     1692 bytes  src/@ionic-native/plugins/device/index.ts</tspan>
+<tspan x="10" y="1802"> 94.  2017-04-25 02:42:26 +0000    26893 bytes  src/@ionic-native/plugins/diagnostic/index.ts</tspan>
+<tspan x="10" y="1818"> 95.  2017-04-25 02:42:26 +0000     3478 bytes  src/@ionic-native/plugins/dialogs/index.ts</tspan>
+<tspan x="10" y="1834"> 96.  2017-04-25 02:42:26 +0000     3434 bytes  src/@ionic-native/plugins/email-composer/index.t\</tspan>
+<tspan x="10" y="1850">s</tspan>
+<tspan x="10" y="1866"> 97.  2017-04-25 02:42:26 +0000    15760 bytes  src/@ionic-native/plugins/estimote-beacons/index\</tspan>
+<tspan x="10" y="1882">.ts</tspan>
+<tspan x="10" y="1898"> 98.  2017-04-25 02:42:26 +0000    10679 bytes  src/@ionic-native/plugins/facebook/index.ts</tspan>
+<tspan x="10" y="1914"> 99.  2017-04-25 02:42:26 +0000      898 bytes  src/@ionic-native/plugins/file-chooser/index.ts</tspan>
+<tspan x="10" y="1930">100.  2017-04-25 02:42:26 +0000     1792 bytes  src/@ionic-native/plugins/file-opener/index.ts</tspan>
+<tspan x="10" y="1946">101.  2017-04-25 02:42:26 +0000     1083 bytes  src/@ionic-native/plugins/file-path/index.ts</tspan>
+<tspan x="10" y="1962">102.  2017-04-25 02:42:26 +0000    45767 bytes  src/@ionic-native/plugins/file/index.ts</tspan>
+<tspan x="10" y="1978">103.  2017-04-25 02:42:26 +0000     1968 bytes  src/@ionic-native/plugins/fingerprint-aio/index.\</tspan>
+<tspan x="10" y="1994">ts</tspan>
+<tspan x="10" y="2010">104.  2017-04-25 02:42:26 +0000     5433 bytes  src/@ionic-native/plugins/firebase/index.ts</tspan>
+<tspan x="10" y="2026">105.  2017-04-25 02:42:26 +0000     1741 bytes  src/@ionic-native/plugins/flashlight/index.ts</tspan>
+<tspan x="10" y="2042">106.  2017-04-25 02:42:26 +0000     5289 bytes  src/@ionic-native/plugins/flurry-analytics/index\</tspan>
+<tspan x="10" y="2058">.ts</tspan>
+<tspan x="10" y="2074">107.  2017-04-25 02:42:26 +0000     5691 bytes  src/@ionic-native/plugins/geofence/index.ts</tspan>
+<tspan x="10" y="2090">108.  2017-04-25 02:42:26 +0000     6627 bytes  src/@ionic-native/plugins/geolocation/index.ts</tspan>
+<tspan x="10" y="2106">109.  2017-04-25 02:42:26 +0000     6159 bytes  src/@ionic-native/plugins/globalization/index.ts</tspan>
+<tspan x="10" y="2122">110.  2017-04-25 02:42:26 +0000     6613 bytes  src/@ionic-native/plugins/google-analytics/index\</tspan>
+<tspan x="10" y="2138">.ts</tspan>
+<tspan x="10" y="2154">111.  2017-04-25 02:42:26 +0000    41086 bytes  src/@ionic-native/plugins/google-maps/index.ts</tspan>
+<tspan x="10" y="2170">112.  2017-04-25 02:42:26 +0000     1924 bytes  src/@ionic-native/plugins/google-plus/index.ts</tspan>
+<tspan x="10" y="2186">113.  2017-04-25 02:42:26 +0000     2676 bytes  src/@ionic-native/plugins/gyroscope/index.ts</tspan>
+<tspan x="10" y="2202">114.  2017-04-25 02:42:26 +0000      987 bytes  src/@ionic-native/plugins/header-color/index.ts</tspan>
+<tspan x="10" y="2218">115.  2017-04-25 02:42:26 +0000    12032 bytes  src/@ionic-native/plugins/health/index.ts</tspan>
+<tspan x="10" y="2234">116.  2017-04-25 02:42:26 +0000     9110 bytes  src/@ionic-native/plugins/hotspot/index.ts</tspan>
+<tspan x="10" y="2250">117.  2017-04-25 02:42:26 +0000     6297 bytes  src/@ionic-native/plugins/http/index.ts</tspan>
+<tspan x="10" y="2266">118.  2017-04-25 02:42:26 +0000     2293 bytes  src/@ionic-native/plugins/httpd/index.ts</tspan>
+<tspan x="10" y="2282">119.  2017-04-25 02:42:26 +0000    26505 bytes  src/@ionic-native/plugins/ibeacon/index.ts</tspan>
+<tspan x="10" y="2298">120.  2017-04-25 02:42:26 +0000     2403 bytes  src/@ionic-native/plugins/image-picker/index.ts</tspan>
+<tspan x="10" y="2314">121.  2017-04-25 02:42:26 +0000     2163 bytes  src/@ionic-native/plugins/image-resizer/index.ts</tspan>
+<tspan x="10" y="2330">122.  2017-04-25 02:42:26 +0000     8470 bytes  src/@ionic-native/plugins/in-app-browser/index.t\</tspan>
+<tspan x="10" y="2346">s</tspan>
+<tspan x="10" y="2362">123.  2017-04-25 02:42:26 +0000     4039 bytes  src/@ionic-native/plugins/in-app-purchase/index.\</tspan>
+<tspan x="10" y="2378">ts</tspan>
+<tspan x="10" y="2394">124.  2017-04-25 02:42:26 +0000     1250 bytes  src/@ionic-native/plugins/insomnia/index.ts</tspan>
+<tspan x="10" y="2410">125.  2017-04-25 02:42:26 +0000     1991 bytes  src/@ionic-native/plugins/instagram/index.ts</tspan>
+<tspan x="10" y="2426">126.  2017-04-25 02:42:26 +0000     9536 bytes  src/@ionic-native/plugins/intel-security/index.t\</tspan>
+<tspan x="10" y="2442">s</tspan>
+<tspan x="10" y="2458">127.  2017-04-25 02:42:26 +0000     1374 bytes  src/@ionic-native/plugins/is-debug/index.ts</tspan>
+<tspan x="10" y="2474">128.  2017-04-25 02:42:26 +0000     4454 bytes  src/@ionic-native/plugins/jins-meme/index.ts</tspan>
+<tspan x="10" y="2490">129.  2017-04-25 02:42:26 +0000     2210 bytes  src/@ionic-native/plugins/keyboard/index.ts</tspan>
+<tspan x="10" y="2506">130.  2017-04-25 02:42:26 +0000     6760 bytes  src/@ionic-native/plugins/launch-navigator/index\</tspan>
+<tspan x="10" y="2522">.ts</tspan>
+<tspan x="10" y="2538">131.  2017-04-25 02:42:26 +0000     1265 bytes  src/@ionic-native/plugins/launch-review/index.ts</tspan>
+<tspan x="10" y="2554">132.  2017-04-25 02:42:26 +0000     3161 bytes  src/@ionic-native/plugins/linkedin/index.ts</tspan>
+<tspan x="10" y="2570">133.  2017-04-25 02:42:26 +0000     9044 bytes  src/@ionic-native/plugins/local-notifications/in\</tspan>
+<tspan x="10" y="2586">dex.ts</tspan>
+<tspan x="10" y="2602">134.  2017-04-25 02:42:26 +0000     3513 bytes  src/@ionic-native/plugins/location-accuracy/inde\</tspan>
+<tspan x="10" y="2618">x.ts</tspan>
+<tspan x="10" y="2634">135.  2017-04-25 02:42:26 +0000     1246 bytes  src/@ionic-native/plugins/market/index.ts</tspan>
+<tspan x="10" y="2650">136.  2017-04-25 02:42:26 +0000     5805 bytes  src/@ionic-native/plugins/media-capture/index.ts</tspan>
+<tspan x="10" y="2666">137.  2017-04-25 02:42:26 +0000     6121 bytes  src/@ionic-native/plugins/media/index.ts</tspan>
+<tspan x="10" y="2682">138.  2017-04-25 02:42:26 +0000     3094 bytes  src/@ionic-native/plugins/mixpanel/index.ts</tspan>
+<tspan x="10" y="2698">139.  2017-04-25 02:42:26 +0000     4538 bytes  src/@ionic-native/plugins/music-controls/index.t\</tspan>
+<tspan x="10" y="2714">s</tspan>
+<tspan x="10" y="2730">140.  2017-04-25 02:42:26 +0000     3845 bytes  src/@ionic-native/plugins/native-audio/index.ts</tspan>
+<tspan x="10" y="2746">141.  2017-04-25 02:42:26 +0000     2803 bytes  src/@ionic-native/plugins/native-geocoder/index.\</tspan>
+<tspan x="10" y="2762">ts</tspan>
+<tspan x="10" y="2778">142.  2017-04-25 02:42:26 +0000     3082 bytes  src/@ionic-native/plugins/native-page-transition\</tspan>
+<tspan x="10" y="2794">s/index.ts</tspan>
+<tspan x="10" y="2810">143.  2017-04-25 02:42:26 +0000     1647 bytes  src/@ionic-native/plugins/native-storage/index.t\</tspan>
+<tspan x="10" y="2826">s</tspan>
+<tspan x="10" y="2842">144.  2017-04-25 02:42:26 +0000     1308 bytes  src/@ionic-native/plugins/navigation-bar/index.t\</tspan>
+<tspan x="10" y="2858">s</tspan>
+<tspan x="10" y="2874">145.  2017-04-25 02:42:26 +0000     2818 bytes  src/@ionic-native/plugins/network/index.ts</tspan>
+<tspan x="10" y="2890">146.  2017-04-25 02:42:26 +0000     5713 bytes  src/@ionic-native/plugins/nfc/index.ts</tspan>
+<tspan x="10" y="2906">147.  2017-04-25 02:42:26 +0000    16052 bytes  src/@ionic-native/plugins/onesignal/index.ts</tspan>
+<tspan x="10" y="2922">148.  2017-04-25 02:42:26 +0000    17186 bytes  src/@ionic-native/plugins/paypal/index.ts</tspan>
+<tspan x="10" y="2938">149.  2017-04-25 02:42:26 +0000     3818 bytes  src/@ionic-native/plugins/pedometer/index.ts</tspan>
+<tspan x="10" y="2954">150.  2017-04-25 02:42:26 +0000     7377 bytes  src/@ionic-native/plugins/photo-library/index.ts</tspan>
+<tspan x="10" y="2970">151.  2017-04-25 02:42:26 +0000     1101 bytes  src/@ionic-native/plugins/photo-viewer/index.ts</tspan>
+<tspan x="10" y="2986">152.  2017-04-25 02:42:26 +0000     1301 bytes  src/@ionic-native/plugins/pin-dialog/index.ts</tspan>
+<tspan x="10" y="3002">153.  2017-04-25 02:42:26 +0000    10505 bytes  src/@ionic-native/plugins/pinterest/index.ts</tspan>
+<tspan x="10" y="3018">154.  2017-04-25 02:42:26 +0000     1843 bytes  src/@ionic-native/plugins/power-management/index\</tspan>
+<tspan x="10" y="3034">.ts</tspan>
+<tspan x="10" y="3050">155.  2017-04-25 02:42:26 +0000     2477 bytes  src/@ionic-native/plugins/printer/index.ts</tspan>
+<tspan x="10" y="3066">156.  2017-04-25 02:42:26 +0000    11562 bytes  src/@ionic-native/plugins/push/index.ts</tspan>
+<tspan x="10" y="3082">157.  2017-04-25 02:42:26 +0000     1151 bytes  src/@ionic-native/plugins/rollbar/index.ts</tspan>
+<tspan x="10" y="3098">158.  2017-04-25 02:42:26 +0000     3071 bytes  src/@ionic-native/plugins/safari-view-controller\</tspan>
+<tspan x="10" y="3114">/index.ts</tspan>
+<tspan x="10" y="3130">159.  2017-04-25 02:42:26 +0000     3583 bytes  src/@ionic-native/plugins/screen-orientation/ind\</tspan>
+<tspan x="10" y="3146">ex.ts</tspan>
+<tspan x="10" y="3162">160.  2017-04-25 02:42:26 +0000     2287 bytes  src/@ionic-native/plugins/screenshot/index.ts</tspan>
+<tspan x="10" y="3178">161.  2017-04-25 02:42:26 +0000     3162 bytes  src/@ionic-native/plugins/secure-storage/index.t\</tspan>
+<tspan x="10" y="3194">s</tspan>
+<tspan x="10" y="3210">162.  2017-04-25 02:42:26 +0000     3074 bytes  src/@ionic-native/plugins/serial/index.ts</tspan>
+<tspan x="10" y="3226">163.  2017-04-25 02:42:26 +0000     1024 bytes  src/@ionic-native/plugins/shake/index.ts</tspan>
+<tspan x="10" y="3242">164.  2017-04-25 02:42:26 +0000     1680 bytes  src/@ionic-native/plugins/sim/index.ts</tspan>
+<tspan x="10" y="3258">165.  2017-04-25 02:42:26 +0000     2029 bytes  src/@ionic-native/plugins/sms/index.ts</tspan>
+<tspan x="10" y="3274">166.  2017-04-25 02:42:26 +0000     6640 bytes  src/@ionic-native/plugins/social-sharing/index.t\</tspan>
+<tspan x="10" y="3290">s</tspan>
+<tspan x="10" y="3306">167.  2017-04-25 02:42:26 +0000     3805 bytes  src/@ionic-native/plugins/speech-recognition/ind\</tspan>
+<tspan x="10" y="3322">ex.ts</tspan>
+<tspan x="10" y="3338">168.  2017-04-25 02:42:26 +0000     1522 bytes  src/@ionic-native/plugins/spinner-dialog/index.t\</tspan>
+<tspan x="10" y="3354">s</tspan>
+<tspan x="10" y="3370">169.  2017-04-25 02:42:26 +0000      999 bytes  src/@ionic-native/plugins/splash-screen/index.ts</tspan>
+<tspan x="10" y="3386">170.  2017-04-25 02:42:26 +0000     3533 bytes  src/@ionic-native/plugins/sqlite-porter/index.ts</tspan>
+<tspan x="10" y="3402">171.  2017-04-25 02:42:26 +0000     4526 bytes  src/@ionic-native/plugins/sqlite/index.ts</tspan>
+<tspan x="10" y="3418">172.  2017-04-25 02:42:26 +0000     3031 bytes  src/@ionic-native/plugins/status-bar/index.ts</tspan>
+<tspan x="10" y="3434">173.  2017-04-25 02:42:26 +0000     2886 bytes  src/@ionic-native/plugins/stepcounter/index.ts</tspan>
+<tspan x="10" y="3450">174.  2017-04-25 02:42:26 +0000     2257 bytes  src/@ionic-native/plugins/streaming-media/index.\</tspan>
+<tspan x="10" y="3466">ts</tspan>
+<tspan x="10" y="3482">175.  2017-04-25 02:42:26 +0000     4211 bytes  src/@ionic-native/plugins/stripe/index.ts</tspan>
+<tspan x="10" y="3498">176.  2017-04-25 02:42:26 +0000     1777 bytes  src/@ionic-native/plugins/taptic-engine/index.ts</tspan>
+<tspan x="10" y="3514">177.  2017-04-25 02:42:26 +0000     1388 bytes  src/@ionic-native/plugins/text-to-speech/index.t\</tspan>
+<tspan x="10" y="3530">s</tspan>
+<tspan x="10" y="3546">178.  2017-04-25 02:42:26 +0000     7184 bytes  src/@ionic-native/plugins/themeable-browser/inde\</tspan>
+<tspan x="10" y="3562">x.ts</tspan>
+<tspan x="10" y="3578">179.  2017-04-25 02:42:26 +0000     5421 bytes  src/@ionic-native/plugins/three-dee-touch/index.\</tspan>
+<tspan x="10" y="3594">ts</tspan>
+<tspan x="10" y="3610">180.  2017-04-25 02:42:26 +0000     5533 bytes  src/@ionic-native/plugins/toast/index.ts</tspan>
+<tspan x="10" y="3626">181.  2017-04-25 02:42:26 +0000     3426 bytes  src/@ionic-native/plugins/touch-id/index.ts</tspan>
+<tspan x="10" y="3642">182.  2017-04-25 02:42:26 +0000     7751 bytes  src/@ionic-native/plugins/transfer/index.ts</tspan>
+<tspan x="10" y="3658">183.  2017-04-25 02:42:26 +0000     2126 bytes  src/@ionic-native/plugins/twitter-connect/index.\</tspan>
+<tspan x="10" y="3674">ts</tspan>
+<tspan x="10" y="3690">184.  2017-04-25 02:42:26 +0000      997 bytes  src/@ionic-native/plugins/unique-device-id/index\</tspan>
+<tspan x="10" y="3706">.ts</tspan>
+<tspan x="10" y="3722">185.  2017-04-25 02:42:26 +0000     1381 bytes  src/@ionic-native/plugins/vibration/index.ts</tspan>
+<tspan x="10" y="3738">186.  2017-04-25 02:42:26 +0000     5465 bytes  src/@ionic-native/plugins/video-editor/index.ts</tspan>
+<tspan x="10" y="3754">187.  2017-04-25 02:42:26 +0000     2105 bytes  src/@ionic-native/plugins/video-player/index.ts</tspan>
+<tspan x="10" y="3770">188.  2017-04-25 02:42:26 +0000     3188 bytes  src/@ionic-native/plugins/web-intent/index.ts</tspan>
+<tspan x="10" y="3786">189.  2017-04-25 02:42:26 +0000      902 bytes  src/@ionic-native/plugins/youtube-video-player/i\</tspan>
+<tspan x="10" y="3802">ndex.ts</tspan>
+<tspan x="10" y="3818">190.  2017-04-25 02:42:26 +0000     2097 bytes  src/@ionic-native/plugins/zbar/index.ts</tspan>
+<tspan x="10" y="3834">191.  2017-04-25 02:42:26 +0000     3923 bytes  src/@ionic-native/plugins/zeroconf/index.ts</tspan>
+<tspan x="10" y="3850">192.  2017-04-25 02:42:26 +0000     1326 bytes  src/@ionic-native/plugins/zip/index.ts</tspan>
+<tspan x="10" y="3866">193.  2017-04-25 02:42:26 +0000      424 bytes  tsconfig.json</tspan>
+<tspan x="10" y="3882">194.  2017-04-25 02:42:26 +0000       41 bytes  tslint.json</tspan>
+</text>
+</svg>
